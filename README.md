@@ -1,6 +1,6 @@
 # Guia para o repositório
 
-Os códigos esntão na pasta `code`.
+Os códigos estão na pasta `code`.
 
 * Código da [questão 2](/codes/question_02.py)
 * Código da [questão 3](/codes/question_03.py)
